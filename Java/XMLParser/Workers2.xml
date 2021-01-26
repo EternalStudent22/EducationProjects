@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Workers>
+        
+    <Worked>
+                
+        <Name>Todorenko Lexxa</Name>
+                
+        <Dateofbitrth>15.08.1998</Dateofbitrth>
+                
+        <sex>male</sex>
+                
+        <email>fd23@gmail.com</email>
+                
+        <passseria>2281</passseria>
+                
+        <passnumber>754234</passnumber>
+                
+        <phone>89154442343</phone>
+                
+        <passissued>ТП ГУ УВД</passissued>
+                
+        <address>г.Одинцово,ул.Большая,д4.кв.55</address>
+                
+        <registrationAddress>г.Одинцово,ул.Большая,д4.кв.55</registrationAddress>
+                
+        <index>555145</index>
+                
+        <INN>75843958</INN>
+                
+        <snils>456-745-84 85</snils>
+                
+        <photopath>C:\Users\xamst\OneDrive\Рабочий стол\SIdEXSsU5vg.jpg</photopath>
+            
+    </Worked>
+        
+    <Worked>
+                
+        <Name>Novikov Sergey Nikolaevich</Name>
+                
+        <Dateofbitrth>22.07.1995</Dateofbitrth>
+                
+        <sex>male</sex>
+                
+        <email>gor@mail.ru</email>
+                
+        <passseria>5686</passseria>
+                
+        <passnumber>745085</passnumber>
+                
+        <phone>88005553535</phone>
+                
+        <passissued>New Yoark</passissued>
+                
+        <address>г.Москва,ул.Луначарского, д.55.,кв.3</address>
+                
+        <registrationAddress>г.Москва,ул.Жукова, д.55.,кв.3</registrationAddress>
+                
+        <index>155666</index>
+                
+        <INN>94324585</INN>
+                
+        <snils>345-654-234 66</snils>
+                
+        <photopath>D:\projectsjava\project\img.jpg</photopath>
+            
+    </Worked>
+        
+    <Worked>
+                
+        <Name>D.A.</Name>
+                
+        <Dateofbitrth>15.08.1998</Dateofbitrth>
+                
+        <sex>male</sex>
+                
+        <email>fd23@gmail.com</email>
+                
+        <passseria>2281</passseria>
+                
+        <passnumber>754234</passnumber>
+                
+        <phone>89154442343</phone>
+                
+        <passissued>ТП ГУ УВД</passissued>
+                
+        <address>г.Одинцово,ул.Большая,д4.кв.55</address>
+                
+        <registrationAddress>г.Одинцово,ул.Большая,д4.кв.55</registrationAddress>
+                
+        <index>555145</index>
+                
+        <INN>75843958</INN>
+                
+        <snils>456-745-84 85</snils>
+                
+        <photopath>C:\Users\xamst\OneDrive\Рабочий стол\SIdEXSsU5vg.jpg</photopath>
+            
+    </Worked>
+    
+    <Worked>
+        <Name>Petrov Aleksey Konstantinovich</Name>
+        <Dateofbitrth>6.6.1963</Dateofbitrth>
+        <sex>male</sex>
+        <email>Aleksey2001@yandex.ru</email>
+        <passseria>8188</passseria>
+        <passnumber>518874</passnumber>
+        <phone>81329775495</phone>
+        <passissued>TP MVD to cityNovgorod</passissued>
+        <address>Novgorodyl.Marshala Jukovad.4kv.160</address>
+        <registrationAddress>Novgorodel.Marshala Jukovad.4kv.160</registrationAddress>
+        <index>439122</index>
+        <INN>357577606</INN>
+        <snils>616665260</snils>
+        <photopath>img.jpg</photopath>
+    </Worked>
+</Workers>
